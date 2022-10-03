@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm AMINE HARIRI junior web devloper
+I'm AMINE HARIRI junior web devloper <br>
 🔭 I’m currently developing a Dashboard using HTML and CSS<br>👯 I’m looking to collaborate on Frontend projects <br>🤝 I’m looking for help with React js<br>🌱 I’m currently learning React js<br>
 
 
