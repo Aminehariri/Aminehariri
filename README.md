@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Amine hariri senior web devloper <br>
+I'm Amine hariri junior web devloper <br>
 
 
 ## 🌐 Socials:
