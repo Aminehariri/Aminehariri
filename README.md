@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm Amine Hariri Frontend Web Developer 
+⚡ Hello ,I'm Amine Hariri Frontend Web Developer 
 
 
 ## 🌐 Socials:
